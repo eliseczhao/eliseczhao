@@ -11,3 +11,4 @@ This project analyzes data from the **Lown Hospital Index for Equity 2022** to e
 - Evaluate the relationship between hospital size (xs-l) and equity scores to assess whether larger or smaller institutions perform differently in serving diverse or underserved communities.
 - Suggest actionable insights that can inform healthcare administrators, policymakers, or advocacy groups on how institutional characteristics may impact equity—and where improvements are needed.
 
+## ⚙️ Tools
