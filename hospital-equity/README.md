@@ -12,5 +12,5 @@ This project analyzes data from the **Lown Hospital Index for Equity 2022** to e
 - Suggest actionable insights that can inform healthcare administrators, policymakers, or advocacy groups on how institutional characteristics may impact equity—and where improvements are needed.
 
 ## ⚙️ Tools
-- Microsoft Excel (view _____)
+- Microsoft Excel (view datasheet [here](https://1drv.ms/x/s!An8rjRh6jaDTgUOynNyKCa6Ei7yn?e=PLwjqG)
 - Tableau (view dashboard [here](https://public.tableau.com/views/HospitalEquity/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
