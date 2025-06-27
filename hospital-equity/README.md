@@ -13,4 +13,4 @@ This project analyzes data from the **Lown Hospital Index for Equity 2022** to e
 
 ## ⚙️ Tools
 - Microsoft Excel (view _____)
-- Tableau (view [here](link-to-public-viz))
+- Tableau (view [here](https://public.tableau.com/views/HospitalEquity/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
