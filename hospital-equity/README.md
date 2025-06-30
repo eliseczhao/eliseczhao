@@ -4,7 +4,7 @@
 This project explores the relationship between hospital characteristics and equity performance across the United States using data from the **Lown Institute Hospital Index, 2022**.
 
 ## 🔍 Project Question
-**How are hospital equity grades distributed across the U.S., and what role does hospital size play in equity performance?**
+How are hospital equity grades distributed across the U.S., and what role does hospital size play in equity performance?
 
 ## 🎯 Goals
 - Visualize the geographic distribution of hospital equity, the most equitable hospitals defined as having recieving an equity grade of A or B.
