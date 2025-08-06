@@ -1,3 +1,5 @@
 # Hi there 👋
 
-I am an aspiring data analyst who has 2+ years of experience working in neuroscience labs, most recently as a tech at Scripps Research Institute. I am looking to pivot into healthcare data analysis. Welcome to my portfolio, where I will showcase my projects!
+![cute gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamx4b2t2eGs4dnU5aWJ2cTAzdjVwd2xzb2NpM25jOHl3bDNhNGN5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/99Jjtsas6KfV6/giphy.gif)
+
+having fun and getting things done
